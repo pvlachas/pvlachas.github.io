@@ -1,0 +1,12 @@
+github_users:
+  - pvlachas
+  - cselab
+
+github_repos:
+  - pvlachas/RNN-RC-Chaos
+  - pvlachas/RNN-Lyapunov-Spectrum
+  - pvlachas/LearningEffectiveDynamics
+  - pvlachas/LED-Proteins
+  # - pvlachas/adaled
+  - cselab/LED
+  - cselab/LED-Molecular
