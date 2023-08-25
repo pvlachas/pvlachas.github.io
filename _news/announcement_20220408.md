@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper published in NMI!
-date: 2022-04-07 07:59:00-0400
+date: 2022-04-08 07:59:00-0400
 inline: true
 related_posts: false
 ---
