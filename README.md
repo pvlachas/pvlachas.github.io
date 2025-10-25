@@ -8,9 +8,10 @@ It has been customized to reflect my academic work, style preferences, and layou
 ---
 # TODO
 
-- [ ] Update news section with latest updates.
-- [ ] Update CV with recent positions and achievements.
-- [ ] Add CV section, and projects section.
+- [X] Update news section with latest updates.
+- [X] Update CV with recent positions and achievements.
+- [X] Add CV section.
+- [] Add projects section.
 
 
 ---
