@@ -11,7 +11,7 @@ bundle install
 1. changes on the code
 2. commit on github
 
-# to track online changes
+bundle exec jekyll clean
 bundle exec jekyll serve
 
 DEPLOYMENT
