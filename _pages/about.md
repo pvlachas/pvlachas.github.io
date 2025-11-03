@@ -20,7 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi!
 
-I'm Pantelis R. Vlachas, a Machine Learning Research Scientist at ETH Zurich. I am currently working on [spatial transcriptomics](https://en.wikipedia.org/wiki/Spatial_transcriptomics) project with [Kalin Nonchev](https://bmi.inf.ethz.ch/people/person/kalin-nonchev) at [Gunnar Rätsch](https://bmi.inf.ethz.ch/people/person/gunnar-raetsch)'s lab at ETH Zurich.  
+I'm Pantelis R. Vlachas, a Machine Learning Research Scientist at ETH Zurich. I am 
+currently working on generative modeling for spatial transcriptomics with [Kalin 
+Nonchev](https://bmi.inf.ethz.ch/people/person/kalin-nonchev) at [Gunnar Rätsch](https://bmi.inf.ethz.ch/people/person/gunnar-raetsch)'s Biomedical Informatics group at ETH Zurich.  
 
 In parallel, I am affiliated with the group of [Prof. Eleni Chatzi](https://chatzi.ibk.ethz.ch), where I am exploring hypernetworks, inverse problems, parametric modeling and adaptive surrogate models of dynamical systems with online and real-time learning capabilities.  
 
