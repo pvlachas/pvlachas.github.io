@@ -15,18 +15,20 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/pantelis-r-vlachas-11022aa0/)
 
 ---
 
-#### 🎓 Education
+#### Education
 - **Ph.D. in Computational Science and Machine Learning**, ETH Zurich (2017–2022)  
   *Thesis:* Learning and Forecasting the Effective Dynamics of Complex Systems across Scales  
   Supervisor: Prof. Petros Koumoutsakos  
-- **M.Sc. & B.Sc. in Electrical Engineering**, Technical University of Munich (2011–2016)  
+- **M.Sc. in Electrical Engineering and Computer Science**, Technical University of Munich (2014–2016)  
   GPA: 1.0/1.0 (top 1%)
+- **B.Sc. in Electrical Engineering and Computer Science**, Technical University of Munich (2011–2014)  
+  GPA: 1.3/1.0 (top 3%)
 
 ---
 
-#### 💼 Experience
-- **Research Project**, ETH Zurich, Biomedical Informatics (2025–present)  
-  Working on machine learning for spatial transcriptomics.
+#### Experience
+- **Research Project**, ETH Zurich, Biomedical Informatics (2025–present)
+  Exploring generative models in the context of pathology and transcriptomics.
 - **Research Associate**, ETH Zurich, Structural Dynamics (2023–present)  
   Extending the PHLieNets framework for high-dimensional PDEs and structural systems.  
 - **Head of Machine Learning Research**, Ai2C Technologies AG (2022–2025)  
@@ -35,11 +37,6 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/pantelis-r-vlachas-11022aa0/)
   Developed adaptive ML surrogates for multiscale dynamical systems.  
 - **PhD Researcher**, ETH Zurich, CSE Lab (2017–2022)  
   Pioneered deep learning frameworks for effective learning of multiscale dynamics.
-
----
-
-#### 🧠 Research Focus
-Machine learning for high-dimensional spatiotemporal data, dynamical systems, parametric modeling, adaptive surrogates, and bio-ML (proteins, spatial transcriptomics).
 
 ---
 

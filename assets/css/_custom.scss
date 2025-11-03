@@ -19,3 +19,23 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-brand.title.font-weight-lighter {
   font-weight: 400 !important;  /* normal font weight */
 }
+
+
+/* disable floating footer */
+footer.fixed-bottom {
+  position: static !important;
+}
+
+/* optional: true sticky-at-page-bottom footer */
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+}
