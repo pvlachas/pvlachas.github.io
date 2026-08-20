@@ -6,7 +6,7 @@ subtitle: Machine Learning Research Scientist, ETH Zurich
 
 profile:
   align: right
-  image: vlachas_pic.jpeg
+  image: vlachas_pic_2026.jpg
   image_circular: true # crops the image to make it circular
   # address: >
   #   <p>Munstergasse, 8001</p>
