@@ -22,10 +22,10 @@ Hi!
 
 I'm Pantelis R. Vlachas, a Principal Machine Learning Scientist at [Liom Health](https://www.liom.com), where I work on machine learning for non-invasive health monitoring.
 
-I remain affiliated with ETH Zurich, where I work on generative modeling for spatial transcriptomics with [Kalin 
+I am affiliated with ETH Zurich, where I work on generative modeling for spatial transcriptomics with [Kalin 
 Nonchev](https://bmi.inf.ethz.ch/people/person/kalin-nonchev) at [Gunnar Rätsch](https://bmi.inf.ethz.ch/people/person/gunnar-raetsch)'s Biomedical Informatics group.  
 
-In parallel, I am affiliated with the group of [Prof. Eleni Chatzi](https://chatzi.ibk.ethz.ch), where I am exploring hypernetworks, inverse problems, parametric modeling and adaptive surrogate models of dynamical systems with online and real-time learning capabilities.  
+At the same time, I am affiliated with the group of [Prof. Eleni Chatzi](https://chatzi.ibk.ethz.ch), where I am exploring hypernetworks, inverse problems, parametric modeling and adaptive surrogate models of dynamical systems with online and real-time learning capabilities.  
 
 More broadly, my research lies at the intersection of machine learning, dynamical systems, and (lately) biology. It explores how ML methods enable the prediction of complex dynamics, inference of hidden properties, and discovery of underlying structure in systems ranging from turbulent flows to biological processes. Current focus areas include deep learning, probabilistic modeling, and scientific machine learning, with an emphasis on models that generalize to unseen regimes and adapt online.  
 
