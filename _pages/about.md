@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Machine Learning Research Scientist, ETH Zurich
+subtitle: Principal Machine Learning Scientist, Liom Health · Affiliated Researcher, ETH Zurich
 
 profile:
   align: right
@@ -20,9 +20,10 @@ social: true  # includes social icons at the bottom of the page
 
 Hi!
 
-I'm Pantelis R. Vlachas, a Machine Learning Research Scientist at ETH Zurich. I am 
-currently working on generative modeling for spatial transcriptomics with [Kalin 
-Nonchev](https://bmi.inf.ethz.ch/people/person/kalin-nonchev) at [Gunnar Rätsch](https://bmi.inf.ethz.ch/people/person/gunnar-raetsch)'s Biomedical Informatics group at ETH Zurich.  
+I'm Pantelis R. Vlachas, a Principal Machine Learning Scientist at [Liom Health](https://www.liom.com), where I work on machine learning for non-invasive health monitoring.
+
+I remain affiliated with ETH Zurich, where I work on generative modeling for spatial transcriptomics with [Kalin 
+Nonchev](https://bmi.inf.ethz.ch/people/person/kalin-nonchev) at [Gunnar Rätsch](https://bmi.inf.ethz.ch/people/person/gunnar-raetsch)'s Biomedical Informatics group.  
 
 In parallel, I am affiliated with the group of [Prof. Eleni Chatzi](https://chatzi.ibk.ethz.ch), where I am exploring hypernetworks, inverse problems, parametric modeling and adaptive surrogate models of dynamical systems with online and real-time learning capabilities.  
 

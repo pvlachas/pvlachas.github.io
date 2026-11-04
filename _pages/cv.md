@@ -8,8 +8,9 @@ nav_order: 4
 
 [//]: # (### Pantelis R. Vlachas)
 
-Machine Learning Research Scientist · ETH Zurich  
-Email: pvlachas [at] ethz [dot] ch, or prvlachas [at] gmail [dot] com  
+Principal Machine Learning Scientist · Liom Health  
+Affiliated Researcher · ETH Zurich  
+Email: prvlachas [at] gmail [dot] com  
 Scholar: [Google Scholar](https://scholar.google.ch/citations?user=6rbeRf8AAAAJ&hl=en)  
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/pantelis-r-vlachas-11022aa0/)
 
@@ -27,12 +28,14 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/pantelis-r-vlachas-11022aa0/)
 ---
 
 #### Experience
-- **Research Associate**, ETH Zurich, Biomedical Informatics — Prof. Gunnar Rätsch (2025–present)  
+- **Principal Machine Learning Scientist**, Liom Health AG, Pfäffikon SZ (2026–present)  
+  Machine learning for non-invasive health monitoring with optical spectroscopy.  
+- **Affiliated Researcher**, ETH Zurich, Biomedical Informatics, Prof. Gunnar Rätsch (2025–present)  
   Transcriptomics-conditioned generative models combining gene foundation models with spatial omics for virtual tissue synthesis, and diffusion transformers for histopathology image synthesis.  
-- **Research Associate**, ETH Zurich, Structural Dynamics — Prof. Eleni Chatzi (2023–present)  
-  Developed the PHLieNets hypernetwork framework for parametric dynamical systems, enabling generalization to unseen regimes and real-time, active-learning adaptation.  
+- **Affiliated Researcher**, ETH Zurich, Structural Dynamics, Prof. Eleni Chatzi (2023–present)  
+  Developed the PHLieNets hypernetwork framework ([MSSP 2026](https://doi.org/10.1016/j.ymssp.2026.114635)) for parametric dynamical systems, enabling generalization to unseen regimes and real-time, active-learning adaptation.  
 - **Head of Machine Learning Research**, Ai2C Technologies AG (2022–2025)  
-  Led a 6-member ML team developing and deploying scalable ML systems for financial forecasting.  
+  Led a 6-member ML team taking research prototypes to production ML pipelines in fintech.  
 - **Associate in Applied Mathematics**, Harvard SEAS (2021–2022)  
   Developed adaptive, real-time ML surrogates (AdaLED) for multiscale dynamical systems.  
 - **PhD Researcher**, ETH Zurich, CSE Lab (2017–2022)  
@@ -41,5 +44,5 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/pantelis-r-vlachas-11022aa0/)
 ---
 
 <div style="text-align: right; margin-top: 10px;">
-  <h4><a href="{{ '/assets/pdf/2026-02-CV-Vlachas.pdf' | relative_url }}">📄 Download Full CV</a></h4>
+  <h4><a href="{{ '/assets/pdf/2026-11-CV-Vlachas.pdf' | relative_url }}">📄 Download Full CV</a></h4>
 </div>
