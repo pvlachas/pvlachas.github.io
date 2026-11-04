@@ -8,7 +8,7 @@ related_posts: false
 
 I will be giving a talk on [PHLieNets](https://arxiv.org/abs/2506.19609) at the [joint 5th Symposium on Machine Learning and Dynamical Systems (MLDS 5) and Differential Equations for Data Science (DEDS 2026)](https://sites.google.com/site/boumedienehamzi/fifth-symposium-on-machine-learning-and-dynamical-systems).
 
-The event will take place at the **Research Institute for Mathematical Sciences (RIMS), Kyoto University**, from **February 9–13, 2026**.
+The event will take place at the [**Research Institute for Mathematical Sciences (RIMS), Kyoto University**](https://www.kurims.kyoto-u.ac.jp/en/), from **February 9–13, 2026**.
 
 This symposium brings together researchers at the intersection of **machine 
 learning**, **dynamical systems**, and **mathematical modeling**, an ideal venue to 
