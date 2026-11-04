@@ -384,10 +384,67 @@ footer.sticky-bottom {
 
 // Repositories
 
+.repo {
+  width: 100%;
+}
+
 @media (min-width: 768px) {
   .repo {
     max-width: 50%;
+    flex: 0 0 50%;
   }
+}
+
+.repo-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 6px;
+  background-color: var(--global-card-bg-color);
+  color: var(--global-text-color);
+  text-align: left;
+  &:hover {
+    border-color: var(--global-theme-color);
+    text-decoration: none;
+    color: var(--global-text-color);
+  }
+}
+
+.repo-card-title {
+  color: var(--global-theme-color);
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+
+.repo-card-owner {
+  color: var(--global-text-color-light);
+  font-size: 0.8rem;
+}
+
+.repo-card-desc {
+  font-size: 0.9rem;
+  margin: 0.5rem 0 0.75rem;
+  flex-grow: 1;
+}
+
+.repo-card-meta {
+  font-size: 0.8rem;
+  color: var(--global-text-color-light);
+  span {
+    margin-right: 1rem;
+  }
+}
+
+.repo-lang-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #3572a5;
+  margin-right: 0.3rem;
+  vertical-align: middle;
 }
 
 // Blog

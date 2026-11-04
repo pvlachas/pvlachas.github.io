@@ -1,0 +1,40 @@
+# Static data for the repository cards on /repositories/ (rendered by _includes/repository/repo.html).
+# Replaces the github-readme-stats images, whose public service went down (503 DEPLOYMENT_PAUSED, 2026-11-04).
+# Description, language, stars and forks are a snapshot from the GitHub API; refresh them when the page is edited.
+snapshot: 2026-11-04
+
+pvlachas/RNN-RC-Chaos:
+  description: RNN architectures trained with Backpropagation and Reservoir Computing (RC) methods for forecasting high-dimensional chaotic dynamical systems.
+  language: Python
+  stars: 102
+  forks: 38
+
+pvlachas/RNN-Lyapunov-Spectrum:
+  description: A data-driven method to calculate the Lyapunov exponent of a dynamical system employing a GRU-RNN.
+  language: Python
+  stars: 48
+  forks: 11
+
+pvlachas/LearningEffectiveDynamics:
+  description: Framework to learn effective dynamics and couple a macro scale simulator with a fast neural network latent propagator.
+  language: Python
+  stars: 11
+  forks: 1
+
+pvlachas/LED-Proteins:
+  description: Framework for learning effective reduced order dynamics of molecular systems.
+  language: Python
+  stars: 1
+  forks: 0
+
+cselab/LED:
+  description: Learning Effective Dynamics (LED) of multiscale systems, the code of the Nature Machine Intelligence 2022 paper.
+  language: Python
+  stars: 21
+  forks: 7
+
+cselab/LED-Molecular:
+  description: Learning Effective Dynamics for molecular systems, the code of the Journal of Chemical Theory and Computation 2021 paper.
+  language: Python
+  stars: 6
+  forks: 0
