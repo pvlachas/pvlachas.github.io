@@ -8,8 +8,7 @@ nav_order: 4
 
 [//]: # (### Pantelis R. Vlachas)
 
-Principal Machine Learning Scientist · Liom Health  
-Affiliated Researcher · ETH Zurich  
+Principal Machine Learning Scientist, Liom Health / Affiliated Researcher, ETH Zurich  
 Email: prvlachas [at] gmail [dot] com  
 Scholar: [Google Scholar](https://scholar.google.ch/citations?user=6rbeRf8AAAAJ&hl=en)  
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/pantelis-r-vlachas-11022aa0/)

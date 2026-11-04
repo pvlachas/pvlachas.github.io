@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Principal Machine Learning Scientist, Liom Health · Affiliated Researcher, ETH Zurich
+subtitle: Principal Machine Learning Scientist, Liom Health / Affiliated Researcher, ETH Zurich
 
 profile:
   align: right
